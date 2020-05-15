@@ -4,11 +4,11 @@
 #city-input, #weather-output {
     max-width: 400px;
     margin: 0 auto;
-    border: ridge rgb(4, 43, 37) 1px;
+    border: ridge rgb(7, 45, 126) 1px;
 }
   
 .banner {
-    color: rgb(113, 233, 217);
+    color: rgb(112, 191, 233);
     text-shadow: black 2px 2px 2px;
     font-family: tahoma;
     font-size: 70px;
